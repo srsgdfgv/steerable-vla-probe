@@ -1,0 +1,17 @@
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+.env
+.DS_Store
+*.pt
+*.bin
+*.safetensors
+*.npz
+hf_cache/
+bridge_dataset/
+steering_features_bridge/
+probe_episodes/
+probe_vis/
+*.log
+.ipynb_checkpoints/
